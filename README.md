@@ -1,1 +1,1 @@
-# New Gessing game experiment in rust
+# New Gessing game experiment in Rust
